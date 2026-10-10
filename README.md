@@ -1,24 +1,5 @@
-> Cannot read the properties of Obj (reading `sudo`)
+## Hello there 👋
 
--------
+Check out my official GitHub account at [@hoangthaiminh](https://github.com/hoangthaiminh)!
 
-![Github 1](https://github.githubassets.com/assets/profile-joined-github-456737b47749.svg)
-![Github 2](https://github.githubassets.com/assets/profile-first-repo-fe2c6ecdd20b.svg)
-
--------
-
-***Unf Account***
-<!--
-**sudo-rm-sys/sudo-rm-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Github](https://github.githubassets.com/assets/profile-first-repo-fe2c6ecdd20b.svg)
